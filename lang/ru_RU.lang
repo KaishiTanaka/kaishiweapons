@@ -1,0 +1,49 @@
+// Такс такс такс што тут у нас русский язык наканецта ахахаха
+
+item.katana_iron.name=Железная Катана
+item.katana_wooden.name=Деревянная Катана
+item.katana_stone.name=Каменная Катана
+item.katana_golden.name=Золотая Катана
+item.katana_diamond.name=Алмазная Катана
+
+item.battleaxe_iron.name=Железная Секира
+item.battleaxe_wooden.name=Деревянная Секира
+item.battleaxe_stone.name=Деревянная Секира
+item.battleaxe_golden.name=Золотая Секира
+item.battleaxe_diamond.name=Алмазная Секира
+
+item.spear_iron.name=Железное Копье
+item.spear_wooden.name=Деревянное Копье
+item.spear_stone.name=Каменное Копье
+item.spear_golden.name=Золотое Копье
+item.spear_diamond.name=Алмазное Копье
+
+item.claws_iron.name=Железные Когти
+item.claws_wooden.name=Деревянные Когти
+item.claws_stone.name=Каменные Когти
+item.claws_golden.name=Золотые Когти
+item.claws_diamond.name=Алмазные Когти
+
+item.gs_iron.name=Большой Железный Меч
+item.gs_wooden.name=Большой Деревянный Меч
+item.gs_stone.name=Большой Каменный Меч
+item.gs_golden.name=Большой Золотой Меч
+item.gs_diamond.name=Большой Алмазный Меч
+
+item.zh_iron.name=Железный Цвайхендер
+item.zh_wooden.name=Деревянный Цвайхендер
+item.zh_stone.name=Каменный Цвайхендер
+item.zh_golden.name=Золотой Цвайхендер
+item.zh_diamond.name=Алмазный Цвайхендер
+
+item.ga_sword.name=Большой Черный Меч
+
+item.dragonslayer_raw.name=Огромный Черный Меч 
+item.dragonslayer.name=Убийца Драконов
+item.dragonslayer_awakened.name=Пробужденный Убийца Драконов
+
+item.washing_pole.name=Сушильный Шест
+
+item.cactus_sword.name=Кактусовый Меч
+
+item.zombie_hand.name=Рука Зомби
